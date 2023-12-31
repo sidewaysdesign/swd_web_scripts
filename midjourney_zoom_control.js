@@ -1,3 +1,4 @@
+// midjourney zoom controls
 const style = document.createElement('style')
 style.textContent = `
 :root { --zoom-margin-size: 0; }
