@@ -11,12 +11,11 @@ style.textContent = `
  bottom: var(--zoom-margin-size);
  left: var(--zoom-margin-size);
  overflow: auto;
- background: #000;
  z-index: 1000;
  display: table-cell!important;
  vertical-align: middle;
  text-align: center;
- background-color:#444;
+ background-color:#333;
 }
 .zoom-overlay img {
  display: inline-block;
